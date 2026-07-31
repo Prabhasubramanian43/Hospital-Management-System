@@ -26,8 +26,6 @@ View Appointments
 
 Cancel Appointment
 
-JWT Authentication
-
 Password Encryption
 
 MongoDB Database
@@ -51,10 +49,6 @@ HTML
 CSS
 
 Bootstrap
-
-Axios
-
-JWT
 
 bcrypt
 
