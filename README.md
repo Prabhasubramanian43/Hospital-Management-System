@@ -142,4 +142,4 @@ Full Stack Developer
 
 ## Project
 
-Hospital Management System using MERN Stack.
+Hospital Management System.
